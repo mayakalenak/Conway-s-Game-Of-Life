@@ -16,11 +16,11 @@ Conway's Game of Life is a simulation of the trends in the behavior of living ce
 - Download and run .zip file
 
 - To see the number of alive cells in each iteration (i.e.: see .csv file)
-- Type:
-    java LandsscapeSimulation.java
+    - Type:
+        java LandsscapeSimulation.java
   into terminal running python code from .zip file
   
 - To see GUI (i.e.: change speed, and have ability to reset and end simulation)
-- Type:
-    java LandsscapeDisplay.java
+    - Type:
+        java LandsscapeDisplay.java
   into terminal running python code from .zip file
