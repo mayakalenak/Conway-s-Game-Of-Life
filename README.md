@@ -3,6 +3,11 @@
 Conway's Game of Life is a simulation of the trends in the behavior of living cells. In this simulation a higher initial chance/density of alive cells causes more living cells in the final state of the simulation, also, a larger grid size causes a higher probablility of living cells. 
 
 
+
+https://github.com/user-attachments/assets/7831967d-99cc-42e3-b305-b3c3fb95e10b
+
+
+
 # Main Features
 
 - Examine the effect of grid size on the probability of alive cells
@@ -17,7 +22,7 @@ Conway's Game of Life is a simulation of the trends in the behavior of living ce
 
 - To see the number of alive cells in each iteration (i.e.: see .csv file)
     - Type:
-        "java LandsscapeSimulation.java"
+        "java LifeSimulation.java"
   into terminal running python code from .zip file
   
 - To see GUI (i.e.: change speed, and have ability to reset and end simulation)
