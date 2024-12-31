@@ -4,7 +4,8 @@ Conway's Game of Life is a simulation of the trends in the behavior of living ce
 
 
 
-https://github.com/user-attachments/assets/7831967d-99cc-42e3-b305-b3c3fb95e10b
+https://github.com/user-attachments/assets/294a3974-89d1-4b98-8263-b1c7e96f3885
+
 
 
 
