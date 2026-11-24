@@ -28,5 +28,5 @@ https://github.com/user-attachments/assets/294a3974-89d1-4b98-8263-b1c7e96f3885
   
 - To see GUI (i.e.: change speed, and have ability to reset and end simulation)
     - Type:
-        "java LandsscapeDisplay.java"
+        "java LandscapeDisplay.java"
   into terminal running python code from .zip file
